@@ -1,0 +1,32 @@
+.menu {
+    background-color: orange;
+    color: white;
+    padding: 20px;
+}
+a{
+    color:white;
+}
+main {
+    width: 900px;
+}
+tr, td, th {
+    text-align: center;
+    border: 1px solid black;
+    width: 900px;
+}
+th{
+    background-color: lightgrey;
+}
+footer{
+    text-align: center;
+}
+aside{
+    width: 200px;
+}
+.left {
+    float: left;
+
+}
+.widt {
+    width: 50px;
+}
