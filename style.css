@@ -3,7 +3,7 @@
     color: white;
     padding: 20px;
 }
-a{
+a {
     color:white;
 }
 main {
@@ -20,13 +20,22 @@ th{
 footer{
     text-align: center;
 }
-aside{
-    width: 200px;
+/*aside{
+    float: right;
+    width: 500px;}* не работает тег ASIDE? правое меню сделала через DIV*/
+.width-main {
+    width: 900px;
+}
+.right-menu{
+    width: 500px;
+    margin-left: 50px;
 }
 .left {
     float: left;
-
 }
-.widt {
-    width: 50px;
+.clear {
+    clear: both;
+}
+p{
+    text-align: justify;
 }
